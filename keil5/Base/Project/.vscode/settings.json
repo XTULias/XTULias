@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "key.h": "c",
+        "led.h": "c",
+        "delay.h": "c",
+        "cstdio": "c",
+        "STDIO.H": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
