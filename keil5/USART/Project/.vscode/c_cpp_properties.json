@@ -3,13 +3,13 @@
         {
             "name": "test1",
             "includePath": [
-                "d:\\Lias\\Documents\\keil5\\USART\\Libraries\\CMSIS",
-                "d:\\Lias\\Documents\\keil5\\USART\\Libraries\\STM32F10x_StdPeriph_Driver\\inc",
-                "d:\\Lias\\Documents\\keil5\\USART\\User",
-                "d:\\Lias\\Documents\\keil5\\USART\\Project",
+                "d:\\Lias\\Documents\\Git\\DPJ\\keil5\\USART\\Libraries\\CMSIS",
+                "d:\\Lias\\Documents\\Git\\DPJ\\keil5\\USART\\Libraries\\STM32F10x_StdPeriph_Driver\\inc",
+                "d:\\Lias\\Documents\\Git\\DPJ\\keil5\\USART\\User",
+                "d:\\Lias\\Documents\\Git\\DPJ\\keil5\\USART\\Project",
                 "D:\\Keil_v5\\ARM\\ARMCC\\include",
                 "D:\\Keil_v5\\ARM\\ARMCC\\include\\rw",
-                "d:\\Lias\\Documents\\keil5\\USART\\Libraries\\STM32F10x_StdPeriph_Driver\\src"
+                "d:\\Lias\\Documents\\Git\\DPJ\\keil5\\USART\\Libraries\\STM32F10x_StdPeriph_Driver\\src"
             ],
             "defines": [
                 "STM32F10X_HD",
